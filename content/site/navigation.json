@@ -8,5 +8,11 @@
       "pageName": "About us",
       "slug": "/about-us"
     }
+  ],
+  "ctaNavigationItems": [
+    {
+      "pageName": "Get in touch",
+      "slug": "/contact"
+    }
   ]
 }
