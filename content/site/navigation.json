@@ -1,0 +1,12 @@
+{
+  "mainNavigationItems": [
+    {
+      "pageName": "Approach",
+      "slug": "/approach"
+    },
+    {
+      "pageName": "About us",
+      "slug": "/about-us"
+    }
+  ]
+}
