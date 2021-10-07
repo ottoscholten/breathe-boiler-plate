@@ -1,0 +1,20 @@
+{
+  "mainNavigationItems": [
+    {
+      "pageName": "Approach",
+      "slug": "/approach",
+      "title": "Approach"
+    },
+    {
+      "pageName": "About us",
+      "slug": "/about-us",
+      "title": "About us"
+    }
+  ],
+  "ctaNavigationItems": [
+    {
+      "pageName": "Get in touch",
+      "slug": "/contact"
+    }
+  ]
+}
