@@ -2,11 +2,13 @@
   "mainNavigationItems": [
     {
       "pageName": "Approach",
-      "slug": "/approach"
+      "slug": "/approach",
+      "title": "Approach"
     },
     {
       "pageName": "About us",
-      "slug": "/about-us"
+      "slug": "/about-us",
+      "title": "About us"
     }
   ],
   "ctaNavigationItems": [
